@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "visametric",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "235dfff8-7880-453c-9b76-865ff7ca8591",
+      "database_name": "REG_DB"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
